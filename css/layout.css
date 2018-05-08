@@ -27,19 +27,26 @@
 .col-1 {
   float: left;
   width: 65%;
+  margin: 0.5% 0.5% 0.5% 0%;
 }
 
 .col-2 {
   float: left;
   width: 32%;
+  margin: 0.5%
 }
 
-.first {
-  margin-left: 0%;
+.col-first {
+  float: left;
+  width: 32%;
+  margin: 0.5% 0.5% 0.5% 0%;
 }
 
-
+.col-container {
+  display: table;
+  width: 100%;
+}
 
 [class*="col"] {
-  margin: 1%;
+  display: table-cell;
 }
