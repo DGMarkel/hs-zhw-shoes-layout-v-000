@@ -44,6 +44,7 @@
 
 .col-container {
   display: table;
+  width: 100%;
 }
 
 [class*="col"] {
