@@ -36,6 +36,6 @@
   margin-left: 1%;
   }
 
-
-
+[class*="col"] {
+  display: inline-block;
 }
