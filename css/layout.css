@@ -24,7 +24,7 @@
 
 /* Posititoning Classes */
 .col-wrapper {
-  max-width: 100%;
+  width: 100%;
 }
 
 .col-1 {
