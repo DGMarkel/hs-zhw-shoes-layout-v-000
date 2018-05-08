@@ -23,6 +23,10 @@
 }
 
 /* Posititoning Classes */
+.wrapper {
+  max-width: 100%;
+}
+
 .col-1 {
   float: left;
   width: 65%;
