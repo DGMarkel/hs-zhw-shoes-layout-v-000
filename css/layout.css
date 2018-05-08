@@ -38,7 +38,7 @@
   float: left;
   width: 32%;
   margin: 1%;
-  
+
 }
 
 .first {
@@ -51,6 +51,7 @@
 
 #margin-fix {
   margin-top: 0%;
+  margin-bottom: 5px;
 }
 
 #brands-formatting {
