@@ -36,7 +36,7 @@
   margin: 0.5%
 }
 
-section.shadow.col-2 .first {
+.col-first {
   float: left;
   width: 32%;
   margin-left: 0;
