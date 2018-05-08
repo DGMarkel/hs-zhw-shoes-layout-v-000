@@ -27,19 +27,15 @@
 .col-1 {
   float: left;
   width: 65%;
-  margin: 0.5% 0.5% 0.5% 0%;
 }
 
 .col-2 {
   float: left;
   width: 32%;
-  margin: 0.5%
 }
 
-.col-first {
-  float: left;
-  width: 32%;
-  margin: 0.5% 0.5% 0.5% 0%;
+.first {
+  margin-left: 0%;
 }
 
 .col-container {
@@ -49,4 +45,5 @@
 
 [class*="col"] {
   display: table-cell;
+  margin: 0.5%;
 }
