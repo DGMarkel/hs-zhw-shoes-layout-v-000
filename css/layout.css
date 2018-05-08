@@ -38,12 +38,8 @@
   margin-left: 0%;
 }
 
-.col-container {
-  display: table;
-  width: 100%;
-}
+
 
 [class*="col"] {
-  display: table-cell;
   margin: 0.5%;
 }
