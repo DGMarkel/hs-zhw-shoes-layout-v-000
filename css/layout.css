@@ -52,6 +52,7 @@
 
 #margin-fix {
   margin-top: 0%;
+  overflow: auto;
 }
 
 #brands-formatting {
