@@ -35,3 +35,9 @@
   width: 32%;
   margin: 0.5%
 }
+
+.col-2 .first {
+  float: left;
+  width: 32%;
+  margin: 0
+}
